@@ -4,6 +4,7 @@ int main()
 {
     int n;
     int i,j,k;
+    printf("\nEnter the height for the stair");
     scanf("%d",&n);
     for(i=1;i<=n;i++)
     {
